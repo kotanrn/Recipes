@@ -6,7 +6,7 @@
 ```
 
 
-## Oven / baked
+## Reverse sear / oven / baked
 ```
 
 ```
