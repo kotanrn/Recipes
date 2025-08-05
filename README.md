@@ -52,6 +52,7 @@ Eggs benedict
 Pancakes
 Crepes
 Boiled eggs
+Hasbrowns
 ```
 
 
