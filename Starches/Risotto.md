@@ -18,6 +18,7 @@ Olive oil
 ## Directions
 ```
 Heat stock and hold at a simmer
+Heat wide pan on medium to medium-high heat
 Finely grate cheese
 Finely grate onion
 Finely grate garlic
