@@ -23,8 +23,7 @@ Finely grate onion
 Finely grate garlic
 Add oil to pan and heat
 Add onion and garlic, and saute until transluscent 
-Add white wine, simmer until alcohol is gone
-Add rice and stir until the edges are transluscent
+Add rice and white wine, stir until rice edges are transluscent and alcohol is cooked off
 Add stock, one ladel at a time, at a gentle simmer
 Stir almost constantly
 Add butter, salt, and pepper
