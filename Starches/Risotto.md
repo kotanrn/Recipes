@@ -5,7 +5,7 @@
 1 cup of Arborio rice (must be Arborio)
 4-6 cups of stock (type doesn't matter)
 1/3 cup of Parmigiano reggiano
-1/3 cup of dry, white wine
+1/3 cup of dry, white wine (Charddonay is good)
 2 tablespoons of butter
 1/2 white onion, chopped finely or grated
 1 clove of garlic
