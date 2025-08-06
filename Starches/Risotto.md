@@ -7,9 +7,7 @@
 1/3 cup of Parmigiano reggiano
 1/3 cup of dry, white wine (Charddonay is good)
 2 tablespoons of butter
-   1/2 white onion, chopped finely or grated
-      --or--
-   1 whole shallot, chopped finely or grated
+Either 1/2 white onion or 1 whole shallot, chopped finely or grated
 1 clove of garlic
 Pinch of salt
 Pinch of pepper
