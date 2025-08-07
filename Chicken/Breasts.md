@@ -18,6 +18,12 @@ x
 ```
 
 
+## Stuffed
+```
+
+```
+
+
 ## Foil packets
 ```
 x
