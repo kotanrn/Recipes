@@ -1,6 +1,6 @@
 # Knife sharpening
 
-## 
+## Honing stick
 ```
 
 ```
