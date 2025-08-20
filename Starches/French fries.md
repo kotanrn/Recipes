@@ -13,9 +13,6 @@ Russet or Yukon Gold
 
 
 ## Directions
-```
-
-```
 
 ### Fryer
 ```
