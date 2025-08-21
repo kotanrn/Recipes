@@ -1,8 +1,9 @@
-# 
+# Fried rice
 
 ## Time 
 ```
-
+x hours
+Serves: x
 ```
 
 ## Ingredients
