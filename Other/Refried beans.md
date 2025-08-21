@@ -1,5 +1,10 @@
 # Refried Beans
 
+## Time 
+```
+
+```
+
 ## Ingredients
 ```
 
