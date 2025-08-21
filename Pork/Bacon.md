@@ -1,7 +1,7 @@
 # Bacon
 
 
-https://www.youtube.com/watch?v=diNLLemUOBg
+[YT, lots of ways](https://www.youtube.com/watch?v=diNLLemUOBg)
 
 
 ## Stovetop
