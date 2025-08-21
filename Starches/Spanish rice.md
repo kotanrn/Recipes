@@ -1,5 +1,10 @@
 # Spanish Rice
 
+## Time 
+```
+
+```
+
 ## Ingredients
 ```
 
