@@ -1,5 +1,10 @@
 # Risotto
 
+## Time 
+```
+
+```
+
 ## Ingredients
 ```
 1 cup of Arborio rice (must be Arborio)
