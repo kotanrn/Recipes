@@ -1,5 +1,9 @@
 # Bacon
 
+
+https://www.youtube.com/watch?v=diNLLemUOBg
+
+
 ## Stovetop
 ```
 
