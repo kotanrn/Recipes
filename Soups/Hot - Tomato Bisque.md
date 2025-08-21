@@ -2,7 +2,8 @@
 
 ## Time 
 ```
-
+x hours
+Serves: x
 ```
 
 ## Ingredients
