@@ -4,41 +4,50 @@
 ```
 x
 ```
+[YT: ](https://www.youtube.com/watch?v=NTBRThwL-2c)
 
-https://www.youtube.com/watch?v=NTBRThwL-2c&pp=ygUQaG9tZSBjb29rIGJhc2ljcw%3D%3D
+
 
 
 ## Oven / baked
 ```
+Oven pre-heat:
+
 x
 ```
+[Awaiting link](url)
 
 
 ## 
 ```
 x
 ```
+[Awaiting link](url)
 
 
 ## 
 ```
 x
 ```
+[Awaiting link](url)
 
 
 ## 
 ```
 x
 ```
+[Awaiting link](url)
 
 
 ## 
 ```
 x
 ```
+[Awaiting link](url)
 
 
 ## 
 ```
 x
 ```
+[Awaiting link](url)
