@@ -2,6 +2,9 @@
 
 ## Stovetop / pan-fried
 ```
+x hours
+Serves: x
+
 Medium heat
 4 minutes, flip, 4 minutes
 Rest for 3-5 minutes
