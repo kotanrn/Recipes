@@ -1,5 +1,10 @@
 # Hashbrowns
 
+## Time 
+```
+
+```
+
 ## Ingredients
 ```
 
