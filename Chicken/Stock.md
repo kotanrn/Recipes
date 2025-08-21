@@ -1,6 +1,23 @@
 # Chicken Stock
 
-## s
+## Time 
 ```
-x
+
+```
+
+## Ingredients
+```
+
+```
+
+
+## Directions
+```
+
+```
+
+
+## Link(s)
+```
+
 ```
