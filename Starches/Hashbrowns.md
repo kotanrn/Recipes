@@ -21,9 +21,9 @@ Serves: x
 
 
 ## Link(s)
-[YT: ](https://www.youtube.com/watch?v=7wnR5tIPyHs)
+[YT: You Suck at Cooking](https://www.youtube.com/watch?v=7wnR5tIPyHs)
 
-[Awaiting link](url)
+[YT: The Flat Top King](https://www.youtube.com/watch?v=TIax2ISUYHQ)
 
 [Awaiting link](url)
 
