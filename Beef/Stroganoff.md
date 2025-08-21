@@ -1,5 +1,10 @@
 # Stroganoff
 
+## Time 
+```
+
+```
+
 ## Ingredients
 ```
 
