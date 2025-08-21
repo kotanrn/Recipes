@@ -2,6 +2,8 @@
 
 ## Time 
 ```
+Oven pre-heat:
+
 3-4 hours
 Serves: 6
 ```
@@ -50,6 +52,13 @@ Serve, optionally garnished with small vegetables, herbs, or beef shreds.
 
 
 ## Link(s)
-```
 
-```
+[Awaiting link](url)
+
+[Awaiting link](url)
+
+[Awaiting link](url)
+
+[Awaiting link](url)
+
+[Awaiting link](url)
