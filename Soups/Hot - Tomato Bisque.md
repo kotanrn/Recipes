@@ -2,6 +2,8 @@
 
 ## Time 
 ```
+Oven pre-heat:
+
 x hours
 Serves: x
 ```
@@ -19,7 +21,12 @@ Serves: x
 
 
 ## Link(s)
-```
-https://www.askchefdennis.com/restaurant-style-tomato-bisque/#wprm-recipe-container-83407
+[Ask Chef Dennis](https://www.askchefdennis.com/restaurant-style-tomato-bisque/#wprm-recipe-container-83407)
 
-```
+[Awaiting link](url)
+
+[Awaiting link](url)
+
+[Awaiting link](url)
+
+[Awaiting link](url)
