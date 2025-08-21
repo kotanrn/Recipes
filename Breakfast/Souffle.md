@@ -5,7 +5,8 @@
 
 ## Time 
 ```
-
+x hours
+Serves: x
 ```
 
 
