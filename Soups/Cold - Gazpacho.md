@@ -2,6 +2,8 @@
 
 ## Time 
 ```
+Oven pre-heat:
+
 x hours
 Serves: x
 ```
@@ -19,7 +21,12 @@ Serves: x
 
 
 ## Link(s)
-```
-https://www.epicurious.com/recipes/food/views/gazpacho-51121580
+[Epicurious](https://www.epicurious.com/recipes/food/views/gazpacho-51121580)
 
-```
+[Awaiting link](url)
+
+[Awaiting link](url)
+
+[Awaiting link](url)
+
+[Awaiting link](url)
