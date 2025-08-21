@@ -21,9 +21,9 @@ Russet or Yukon Gold
 
 ### Oven
 ```
-450 degrees for 15 minutes
+450 degrees for 20 minutes
 Flip
-15 more minutes
+20-25 more minutes
 ```
 
 
