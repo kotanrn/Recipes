@@ -1,5 +1,10 @@
 # Consommé
 
+## Time 
+```
+
+```
+
 ## Ingredients
 ```
 1 quart (4 cups) chicken stock (homemade or good quality)
