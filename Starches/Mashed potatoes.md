@@ -1,5 +1,10 @@
 # Mashed Potatoes
 
+## Time 
+```
+
+```
+
 ## Ingredients
 ```
 
