@@ -28,7 +28,7 @@ Increase pan heat to medium-high
 
 Thoroughly mix potatoes and shallot
 
-Add oil and butter to pan
+Add butter and oil to pan (in that order)
 Spread potatoes on top of oil/butter in thin layers
 Season to taste
 Add a little oil and butter on top of potatoes
