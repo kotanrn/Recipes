@@ -1,6 +1,6 @@
 # Pancakes
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
