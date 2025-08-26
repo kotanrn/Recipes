@@ -1,6 +1,6 @@
 # Creamed Spinach
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
