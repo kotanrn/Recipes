@@ -1,6 +1,6 @@
 # Reese's Peanut Butter Cups
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
