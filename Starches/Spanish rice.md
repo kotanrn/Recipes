@@ -1,6 +1,6 @@
 # Spanish Rice
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
