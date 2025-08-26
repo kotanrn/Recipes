@@ -1,6 +1,6 @@
 # Beef Consommé
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
