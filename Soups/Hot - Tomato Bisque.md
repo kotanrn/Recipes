@@ -1,6 +1,6 @@
 # Tomato Bisque
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
