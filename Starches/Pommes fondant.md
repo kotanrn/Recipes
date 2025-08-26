@@ -1,6 +1,6 @@
 # Pommes fondant
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
