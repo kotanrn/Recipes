@@ -1,6 +1,6 @@
 # Baked beans
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
