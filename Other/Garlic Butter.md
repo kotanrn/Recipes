@@ -1,6 +1,6 @@
 # Garlic Butter
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
