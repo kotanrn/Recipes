@@ -1,6 +1,6 @@
 # Philly Cheesesteak
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
