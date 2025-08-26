@@ -1,6 +1,6 @@
 # Creme Brulee
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
