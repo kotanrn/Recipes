@@ -1,6 +1,6 @@
 # Naan bread
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
