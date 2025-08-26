@@ -1,6 +1,6 @@
 # Corn Bread
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
