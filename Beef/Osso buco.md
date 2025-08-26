@@ -1,6 +1,6 @@
 # Osso Buco
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
