@@ -1,6 +1,6 @@
 # Hashbrowns
 
-## Time 
+## Quick notes 
 ```
 At least 30 minutes
 ```
