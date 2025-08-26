@@ -4,7 +4,7 @@
 ```
 Oven pre-heat: 450°F.
 
-x hours
+30-40 minutes
 Serves: x
 ```
 
