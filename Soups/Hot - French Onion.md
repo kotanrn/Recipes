@@ -1,6 +1,6 @@
 # French Onion Soup
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
