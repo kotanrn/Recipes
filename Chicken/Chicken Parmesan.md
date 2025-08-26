@@ -1,6 +1,6 @@
 # Chicken Parmesan
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
