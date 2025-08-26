@@ -1,6 +1,6 @@
 # Bolognese
 
-## Time 
+## Quick notes 
 ```
 x hours
 Serves: x
@@ -19,7 +19,7 @@ Serves: x
 
 
 ## Link(s)
-[Awaiting link](url)
+[Chef Jean-Pierre - YT](https://www.youtube.com/watch?v=LEZOwA_Qb-Q)
 
 [Awaiting link](url)
 
