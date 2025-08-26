@@ -1,6 +1,6 @@
 # Polenta
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
