@@ -1,6 +1,6 @@
 # Refried Beans
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
