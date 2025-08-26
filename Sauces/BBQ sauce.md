@@ -1,6 +1,6 @@
 # BBQ Sauce
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
