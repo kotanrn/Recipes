@@ -21,7 +21,7 @@ Serves: x
 
 
 ## Link(s)
-[Awaiting link](url)
+[Home Cooking with Jacques Pepin - YT](https://www.youtube.com/watch?v=0B9qSBEtSPc)
 
 [Awaiting link](url)
 
