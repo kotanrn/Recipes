@@ -1,6 +1,6 @@
 # Marinara
 
-## Time 
+## Quick notes 
 ```
 x hours
 Serves: x
@@ -43,8 +43,6 @@ Optional: puree in a blender
 
 
 ## Link(s)
-[Chef Jean-Pierre - YT](https://www.youtube.com/watch?v=LEZOwA_Qb-Q)
-
 [Cooking with Shereen - YT](https://www.youtube.com/watch?v=XY38b32bLHU)
 
 [Awaiting link](url)
