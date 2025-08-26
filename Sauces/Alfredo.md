@@ -1,6 +1,6 @@
 # Alfredo sauce
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
