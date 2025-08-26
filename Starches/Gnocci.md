@@ -1,6 +1,6 @@
 # Gnocci
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
