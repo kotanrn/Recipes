@@ -1,6 +1,6 @@
 # Cheese curds
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
