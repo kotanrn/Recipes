@@ -1,6 +1,6 @@
 # Egg Foo Young
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
