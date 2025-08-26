@@ -1,4 +1,4 @@
-# Marinara & Bolognese
+# Marinara
 
 ## Time 
 ```
