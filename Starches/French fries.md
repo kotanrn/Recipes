@@ -1,6 +1,6 @@
 # French Fries
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat: 
 
