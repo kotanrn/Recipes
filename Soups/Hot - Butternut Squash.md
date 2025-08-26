@@ -1,6 +1,6 @@
 # Butternut Squash
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
