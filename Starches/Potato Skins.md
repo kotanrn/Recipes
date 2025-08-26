@@ -1,6 +1,6 @@
 # Potato Skins
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
