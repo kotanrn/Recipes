@@ -1,6 +1,6 @@
 # Flambe
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
