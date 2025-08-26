@@ -1,6 +1,6 @@
 # Katsu
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
