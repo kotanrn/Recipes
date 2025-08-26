@@ -1,6 +1,6 @@
 # Pork Stock
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
