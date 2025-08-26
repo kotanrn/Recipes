@@ -1,6 +1,6 @@
 # Homemade pasta
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
