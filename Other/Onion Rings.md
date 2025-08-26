@@ -1,6 +1,6 @@
 # Onion Rings
 
-## Time 
+## Quick notes 
 ```
 Oven pre-heat:
 
