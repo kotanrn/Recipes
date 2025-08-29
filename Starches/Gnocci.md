@@ -23,10 +23,4 @@ Serves: x
 ## Link(s)
 [Awaiting link](url)
 
-[Awaiting link](url)
-
-[Awaiting link](url)
-
-[Awaiting link](url)
-
-[Awaiting link](url)
+[Epicurious](https://www.youtube.com/watch?v=LEiXhgBC-gE)
