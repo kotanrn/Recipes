@@ -2,7 +2,7 @@
 
 ## Directions
 ```
-Vacuum seal butter in a bag
+Vacuum seal unsalted butter in a bag
 
 185F for 30 minutes
 
