@@ -32,6 +32,17 @@ Flip
 [Awaiting link](url)
 
 
+### Fried Potato Flowers
+```
+Peel potatoes
+
+Cut in to giant cubes
+
+
+```
+[Cooking Haru - YT](https://www.youtube.com/watch?v=JryUUsaLYNI)
+
+
 ## Link(s)
 [YT: ](https://www.youtube.com/watch?v=MvnYBCDaEKU)
 
