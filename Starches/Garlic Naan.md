@@ -1,4 +1,4 @@
-# Naan bread
+# Garlic Naan
 
 ## Quick notes 
 ```
@@ -22,7 +22,7 @@ Serves: x
 
 
 ## Link(s)
-[Awaiting link](url)
+[Savor Easy - YT](https://www.youtube.com/watch?v=YEFeLn7nlu0)
 
 [Awaiting link](url)
 
