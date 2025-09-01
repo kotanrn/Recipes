@@ -27,13 +27,6 @@
 
 
 ## Oven / baked
-#### Ingredients
-+ 
-+ 
-+ 
-+ 
-
-#### Directions
 1. 350˚F- Cook bacon for ~30 minutes to done, ~38 minutes to crispy or for thick cut bacon.
 
 1. *** 400˚F- Cook bacon for ~25 minutes to done, ~32 minutes to crispy or for thick cut bacon.
