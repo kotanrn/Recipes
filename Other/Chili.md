@@ -2,26 +2,34 @@
 
 ## Quick notes 
 ```
-Oven pre-heat:
+Oven pre-heat: 
 
 x hours
 Serves: x
 ```
 
 ## Ingredients
-```
-
-```
++ 
++ 
++ 
++ 
 
 
 ## Directions
-```
+1. 
 
-```
+
+1. 
+
+
+1. 
+
+
+1. 
 
 
 ## Link(s)
-[Github](https://github.com/LarryMad/recipes/blob/master/chili-recipe.txt)
+[LarryMad - Github](https://github.com/LarryMad/recipes/blob/master/chili-recipe.txt)
 
 [Awaiting link](url)
 
