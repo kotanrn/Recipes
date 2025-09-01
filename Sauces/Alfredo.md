@@ -9,21 +9,27 @@ Serves: x
 ```
 
 ## Ingredients
-```
-2 cups of fresh, finely grated, parmigiano reggiano
-2 cups of heavy cream
-5-6 tablespoons unsalted butter
-3-4 cloves of garlic
-pinch of white pepper
-pinch of salt
-pinch of paprika
-```
++ 2 cups of fresh, finely grated, parmigiano reggiano
++ 2 cups of heavy cream
++ 5-6 tablespoons unsalted butter
++ 3-4 cloves of garlic
++ pinch of white pepper
++ pinch of salt
++ pinch of paprika
+
 
 
 ## Directions
-```
+1. 
 
-```
+
+1. 
+
+
+1. 
+
+
+1. 
 
 
 ## Link(s)
