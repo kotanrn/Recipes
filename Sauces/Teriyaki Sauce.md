@@ -1,4 +1,4 @@
-# Teriyaki Sauce
+# Teriyaki Sauce[
 
 ## Quick notes 
 ```
@@ -30,3 +30,4 @@ Serves: x
 [Awaiting link](url)
 
 [Awaiting link](url)
+](https://www.youtube.com/watch?v=WafWphQzUlo)
