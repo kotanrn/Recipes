@@ -7,39 +7,36 @@ Serves: x
 ```
 
 ## Ingredients
-```
-1x medium sized onion
-5x garlic cloved
-2x 28oz cans of San Marzano tomatoes, peeled
-1/2 cup of white wine
-1.5t dried basil
-1.5t dried parsley/oregano
++ 1x medium sized onion
++ 5x garlic cloved
++ 2x 28oz cans of San Marzano tomatoes, peeled
++ 1/2 cup of white wine
++ 1.5t dried basil
++ 1.5t dried parsley/oregano
 
-```
 
 
 ## Directions
-```
-Heat tall sided pan over medium
-Dice onion
-Mince garlic
-Strain tomatoes and hand crush
+1. Heat tall sided pan over medium
+1. Dice onion
+1. Mince garlic
+1. Strain tomatoes and hand crush
 
-Add 1/4 cup of olive oil to pan
-Sautee onions
-Season lightly with salt and pepper
-Add garlic
-Add white wine
-Reduce by half
+1. Add 1/4 cup of olive oil to pan
+1. Sautee onions
+1. Season lightly with salt and pepper
+1. Add garlic
+1. Add white wine
+1. Reduce by half
 
-Add tomatoes with a little water from the tomato can (about 1/4 can per can used)
-Season with dried basil and parsley/oregano
-Season lightly with salt and pepper
+1. Add tomatoes with a little water from the tomato can (about 1/4 can per can used)
+1. Season with dried basil and parsley/oregano
+1. Season lightly with salt and pepper
 
-Simmer for 25-30 minutes, stirring frequently
+1. Simmer for 25-30 minutes, stirring frequently
 
 Optional: puree in a blender
-```
+
 
 
 ## Link(s)
