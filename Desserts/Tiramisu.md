@@ -2,26 +2,34 @@
 
 ## Quick notes 
 ```
-Oven pre-heat:
+Oven pre-heat: 
 
 x hours
 Serves: x
 ```
 
 ## Ingredients
-```
-
-```
++ 
++ 
++ 
++ 
 
 
 ## Directions
-```
+1. 
 
-```
+
+1. 
+
+
+1. 
+
+
+1. 
 
 
 ## Link(s)
-[YT: ](https://www.youtube.com/watch?v=Q9UIEi5X-qs)
+[Epicurious (4 ways) - YT](https://www.youtube.com/watch?v=Q9UIEi5X-qs)
 
 [Awaiting link](url)
 
