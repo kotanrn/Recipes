@@ -27,7 +27,6 @@ Serves: x
 + 1/4 tsp black pepper
 + Green onion to garnish
 + 8-12 oz Egg noodles, to serve
-+ 
 
 
 
