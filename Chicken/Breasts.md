@@ -1,18 +1,16 @@
 # Chicken Breasts
 
-## Stovetop
-```
-x
-```
-[Awaiting link](url)
-
-
 ## Oven / baked
-```
-Preheat oven to 375
-Bake for 25-30 minutes
-Rest for 5 minutes
-```
+#### Directions
+1. Preheat oven to 375
+
+
+1. Bake for 25-30 minutes
+
+
+1. Rest for 5 minutes
+
+
 [BHG](https://www.bhg.com/recipes/chicken/breasts/bake-chicken-breast/)
 
 [Eating on a dime](https://www.eatingonadime.com/oven-baked-chicken-breast-recipe/)
@@ -20,43 +18,133 @@ Rest for 5 minutes
 [All Recipes](https://www.allrecipes.com/recipe/240208/simple-baked-chicken-breasts/)
 
 
-## Grill
-```
+## Stovetop / pan-fried
+#### Ingredients
++ 
++ 
++ 
++ 
 
-```
+#### Directions
+1. 
+
+
+1. 
+
+
+1. 
+
+
+1. 
+
+[Awaiting link](url)
+
+
+## Grill
+#### Ingredients
++ 
++ 
++ 
++ 
+
+#### Directions
+1. 
+
+
+1. 
+
+
+1. 
+
+
+1. 
+
 [Awaiting link](url)
 
 
 ## Stuffed
-```
+#### Ingredients
++ 
++ 
++ 
++ 
 
-```
-[Awaiting link](url)
+#### Directions
+1. 
 
 
-## Foil packets
-```
-x
-```
+1. 
+
+
+1. 
+
+
+1. 
+
 [Awaiting link](url)
 
 
 ## Schnitzel
-```
-x
-```
+#### Ingredients
++ 
++ 
++ 
++ 
+
+#### Directions
+1. 
+
+
+1. 
+
+
+1. 
+
+
+1. 
+
 [Awaiting link](url)
 
 
 ## Chicken & Dumplings
-```
-x
-```
+#### Ingredients
++ 
++ 
++ 
++ 
+
+#### Directions
+1. 
+
+
+1. 
+
+
+1. 
+
+
+1. 
+
 [Awaiting link](url)
 
 
 ## Curry
-```
-x
-```
+#### Ingredients
++ 
++ 
++ 
++ 
+
+#### Directions
+1. 
+
+
+1. 
+
+
+1. 
+
+
+1. 
+
 [Awaiting link](url)
