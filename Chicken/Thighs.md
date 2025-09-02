@@ -1,53 +1,154 @@
 # Chicken Thighs
 
-## Stovetop
-```
-x
-```
-[YT: ](https://www.youtube.com/watch?v=NTBRThwL-2c)
+## Stovetop / pan-fried
+#### Ingredients
++ 
++ 
++ 
++ 
+
+#### Directions
+1. 
 
 
+1. 
+
+
+1. 
+
+
+1. 
+
+[Awaiting link](url)
 
 
 ## Oven / baked
-```
-Oven pre-heat:
+#### Ingredients
++ 
++ 
++ 
++ 
 
-x
-```
+#### Directions
+1. 
+
+
+1. 
+
+
+1. 
+
+
+1. 
+
 [Awaiting link](url)
 
 
-## 
-```
-x
-```
+## Grill
+#### Ingredients
++ 
++ 
++ 
++ 
+
+#### Directions
+1. 
+
+
+1. 
+
+
+1. 
+
+
+1. 
+
 [Awaiting link](url)
 
 
-## 
-```
-x
-```
+## x
+#### Ingredients
++ 
++ 
++ 
++ 
+
+#### Directions
+1. 
+
+
+1. 
+
+
+1. 
+
+
+1. 
+
 [Awaiting link](url)
 
 
-## 
-```
-x
-```
+## x
+#### Ingredients
++ 
++ 
++ 
++ 
+
+#### Directions
+1. 
+
+
+1. 
+
+
+1. 
+
+
+1. 
+
 [Awaiting link](url)
 
 
-## 
-```
-x
-```
+## x
+#### Ingredients
++ 
++ 
++ 
++ 
+
+#### Directions
+1. 
+
+
+1. 
+
+
+1. 
+
+
+1. 
+
 [Awaiting link](url)
 
 
-## 
-```
-x
-```
+## x
+#### Ingredients
++ 
++ 
++ 
++ 
+
+#### Directions
+1. 
+
+
+1. 
+
+
+1. 
+
+
+1. 
+
 [Awaiting link](url)
