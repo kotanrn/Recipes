@@ -2,8 +2,6 @@
 
 ## Quick notes 
 ```
-Oven pre-heat: 
-
 x hours
 Serves: x
 ```
@@ -33,7 +31,7 @@ Serves: x
 
 [Awaiting link](url)
 
-[Awaiting link](url)
+[Gordon Ramsay - YT](https://www.youtube.com/watch?v=9rWZNHkrsNg)
 
 [Awaiting link](url)
 
