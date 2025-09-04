@@ -2,9 +2,10 @@
 
 ## Quick notes 
 ```
-Oven pre-heat:
+Oven pre-heat: °F 
 
 3-4 hours
+
 Serves: 6
 ```
 
