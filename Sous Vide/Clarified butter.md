@@ -4,7 +4,7 @@
 ```
 Vacuum seal unsalted butter in a bag
 
-185F for 30 minutes
+185°F for 30 minutes
 
 Cut corner of bag and slowly pour/strain in to mason jar.
 ```
