@@ -27,7 +27,7 @@
 ## Oven / baked
 
 #### Directions
-1. 450 degrees for 20 minutes
+1. 450°F for 20 minutes
 
 
 1. Flip
