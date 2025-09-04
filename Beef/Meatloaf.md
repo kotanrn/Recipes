@@ -2,9 +2,8 @@
 
 ## Quick notes 
 ```
-Oven pre-heat: 350°F
+350°F for 1-1.25 hours
 
-1.25 hours
 Serves: 6
 ```
 
