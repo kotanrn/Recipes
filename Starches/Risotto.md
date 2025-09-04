@@ -3,6 +3,7 @@
 ## Quick notes 
 ```
 x hours
+
 Serves: x
 ```
 
