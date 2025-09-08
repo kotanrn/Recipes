@@ -2,7 +2,7 @@
 
 ## Quick notes 
 ```
-350°F for 1-1.25 hours
+350°F for 1.25-1.5 hours
 
 Serves: 6
 ```
