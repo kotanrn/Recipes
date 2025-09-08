@@ -1,4 +1,4 @@
-# Eggs a bunch of ways# 
+# Eggs a bunch of ways
 
 ## Boiled
 #### Ingredients
