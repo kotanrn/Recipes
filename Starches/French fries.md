@@ -27,7 +27,10 @@
 ## Oven / baked
 
 #### Directions
-1. 450°F for 20 minutes
+1. Grease a pan
+
+
+3. 450°F for 20 minutes
 
 
 1. Flip
