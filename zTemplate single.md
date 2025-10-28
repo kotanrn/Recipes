@@ -2,7 +2,7 @@
 
 ## Quick notes
 ```
-Oven pre-heat: °F 
+Oven pre-heat: °F ( °C)
 
 x hours
 
