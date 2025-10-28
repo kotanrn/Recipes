@@ -1,6 +1,15 @@
 # 
 
 ## Stovetop / pan-fried
+#### Quick notes
+```
+Oven pre-heat: °F ( °C)
+
+x hours
+
+Serves: x
+```
+
 #### Ingredients
 + 
 + 
@@ -23,6 +32,15 @@
 
 
 ## Oven / baked
+#### Quick notes
+```
+Oven pre-heat: °F ( °C)
+
+x hours
+
+Serves: x
+```
+
 #### Ingredients
 + 
 + 
@@ -45,6 +63,15 @@
 
 
 ## Grill
+#### Quick notes
+```
+Oven pre-heat: °F ( °C)
+
+x hours
+
+Serves: x
+```
+
 #### Ingredients
 + 
 + 
@@ -67,6 +94,15 @@
 
 
 ## x
+#### Quick notes
+```
+Oven pre-heat: °F ( °C)
+
+x hours
+
+Serves: x
+```
+
 #### Ingredients
 + 
 + 
@@ -89,6 +125,15 @@
 
 
 ## x
+#### Quick notes
+```
+Oven pre-heat: °F ( °C)
+
+x hours
+
+Serves: x
+```
+
 #### Ingredients
 + 
 + 
@@ -111,6 +156,15 @@
 
 
 ## x
+#### Quick notes
+```
+Oven pre-heat: °F ( °C)
+
+x hours
+
+Serves: x
+```
+
 #### Ingredients
 + 
 + 
@@ -133,6 +187,15 @@
 
 
 ## x
+#### Quick notes
+```
+Oven pre-heat: °F ( °C)
+
+x hours
+
+Serves: x
+```
+
 #### Ingredients
 + 
 + 
