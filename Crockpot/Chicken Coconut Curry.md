@@ -4,6 +4,8 @@
 ```
 6-7 hours
 
+Served with rice and/or Naan
+
 Serves: x
 ```
 
