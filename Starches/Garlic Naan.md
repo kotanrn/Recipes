@@ -16,7 +16,20 @@ Serves: x
 + 
 
 
-## Directions
+## Oven Directions
+1. 
+
+
+1. 
+
+
+1. 
+
+
+1. 
+
+
+## Cast Iron Directions
 1. 
 
 
@@ -32,7 +45,7 @@ Serves: x
 ## Link(s)
 [Awaiting link](url)
 
-[Awaiting link](url)
+[Cast Iron: Adam Ragusea - YT](https://www.youtube.com/watch?v=zogvMiPpQrs)
 
 [Awaiting link](url)
 
