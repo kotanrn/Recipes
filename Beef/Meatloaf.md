@@ -47,10 +47,6 @@ Serves: 6
 
 [Food Network - YT](https://www.youtube.com/watch?v=tsyXL8zKTrM)
 
-[Awaiting link](url)
-
-[Awaiting link](url)
-
 [Soul Food Cooking - YT](https://www.youtube.com/watch?v=ZtZmlK2xLcY)
 
 [Soul Food Cooking - Website](https://soulfoodcooking101.com/best-meatloaf-recipe-from-the-queen-of-soul-food-cooking/)
