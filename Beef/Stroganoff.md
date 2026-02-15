@@ -19,7 +19,7 @@ Serves: x
 + 1/2 lb brown mushrooms, thickly sliced
 + 1 garlic cloves, minced
 + 1 Tbsp all-purpose flour
-+ 1 cup beef broth
++ 2 cups beef broth
 + 3/4 cup heavy whipping cream
 + 1/4 cup sour cream
 + 1 Tbsp Worcestershire sauce
@@ -42,7 +42,7 @@ Serves: x
 1. Add 1 minced garlic clove and sautee 1 minute until fragrant. Add 1 Tbsp flour and sautee another minute stirring constantly.
 
 
-1. Pour in 1 cups beef broth, scraping any bits from the bottom of the pan then add 3/4 cup whipping cream and simmer another 1 to 2 minutes or until slightly thickened. 
+1. Pour in 2 cups beef broth, scraping any bits from the bottom of the pan then add 3/4 cup whipping cream and simmer another 1 to 2 minutes or until slightly thickened. 
 
 
 1. Stir a few Tablespoons of the sauce into 1/4 cup of sour cream to temper it so the sour cream doesn’t curdle then add it to the pan while stirring constantly.
