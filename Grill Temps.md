@@ -58,6 +58,30 @@ Recommended smoke: Apple, Cherry
 
 ---
 
+## Grilled Pizza
+
+[Adam Witt - YT](https://www.youtube.com/watch?v=zRB_FqWi7Yk)
+
+[Grill Top Experience - YT](https://www.youtube.com/watch?v=gLDV8iwxlqU)
+
+[Grill Bastards World - YT](https://www.youtube.com/watch?v=_gZOrSWc_js)
+
+---
+
+## Smoked Cheese
++ Use apple or other fruit woods
++ Cold smoke on days no warmer than 60-70 °F
+
+[Whole Made Living - YT](https://www.youtube.com/watch?v=jkQrWpbZGnI)
+
+[HowToBBQRight - YT](https://www.youtube.com/watch?v=pdpBb78DvL0)
+
+[Cowboy Charcoal - YT](https://www.youtube.com/watch?v=5SRXbWorXbI)
+
+[Cowboy Kent Rollins - YT](https://www.youtube.com/watch?v=yY4sg4SHQRg&pp=ygUWY2hhcmNvYWwgc21va2VkIGNoZWVzZQ%3D%3D)
+
+---
+
 ## Woods for smoke
 + Hickory <most versitile, can be used on almost everything> (strong and pungent; kinda bacon-like flavor; too much makes bitterness)
 + Apple (mild, sweet & fruity flavor; strongest of all fruit woods)
