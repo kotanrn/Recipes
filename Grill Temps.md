@@ -10,7 +10,8 @@ Smoke: [Tom's Kitchen - YT](https://www.youtube.com/watch?v=Ocw-AFRWnUA)
 |Pull Temp|120 °F|125 °F|135 °F|145 °F|150 °F|
 |Final Temp|120-130 °F|130-135 °F|135-140 °F|145-155 °F|155+ °F|
 
-Recommended smoke: Mesquite
+Recommended smoke:
++ Steak - Mesquite
 + Brisket - Pecan, Oak
 + Roast - Pecan
 + Ribs -  Pecan, Hickory
@@ -68,7 +69,22 @@ Recommended smoke: Apple, Cherry
 
 ---
 
-## Smoked Cheese
+## (Cold) Smoked Eggs
++ Soft/Medium/Hard boil, ice bath, peel
++ Rotate half-way through
++ Put in bowl, cover with saran wrap, wait 24-48 hours
+
+|Light|Medium|Heavy|
+|---|---|---|
+|1 hr|1.5 hrs|2 hrs|
+
+(cut time in half for small eggs)
+
+[2 Guys & A Cooler - YT] (https://www.youtube.com/watch?v=1Ol51z0yYS0)
+
+---
+
+## (Cold) Smoked Cheese
 + Use apple or other fruit woods
 + Cold smoke on days no warmer than 60-70 °F
 
