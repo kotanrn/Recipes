@@ -82,6 +82,8 @@ Recommended smoke: Apple, Cherry
 
 [2 Guys & A Cooler - YT] (https://www.youtube.com/watch?v=1Ol51z0yYS0)
 
+[Schueys BBQ - YT](https://www.youtube.com/watch?v=FZ7uL1Ek7-c)
+
 ---
 
 ## (Cold) Smoked Cheese
