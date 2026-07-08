@@ -59,11 +59,26 @@ Recommended smoke: Apple, Cherry
 
 ---
 
+## Corn on the cob
+
+1. Husk off, oil, no season, no foil
+2. Two zone, lump, intake wide open, exhaust about half, looking for 400-450°F
+3. Clean and oil cooking grate
+4. Indirect with lid on, rotate & flip every 5 min for a total of 20 minutes
+5. Direct until charred, rotating every 10-15 seconds
+6. Remove, season, eat
+
+[GQue BBQ - Westminster](https://www.youtube.com/watch?v=3YAMFn64VS4)
+
+[GRILLING WITH PITARQUI](https://www.youtube.com/watch?v=G8TTKOWeQRo)
+
+---
+
 ## Potatoes
 
 ### Method 1
 1. Clean, oil, season, no foil
-2. Two zone, briquettes,  intake wide open, exhaust about half, looking for 400
+2. Two zone, briquettes, intake wide open, exhaust about half, looking for 400°F
 3. Indirect 30min, flip & rotate, 30-90min
 4. Pull at 190-205
 
@@ -71,7 +86,7 @@ Recommended smoke: Apple, Cherry
 
 ### Method 2
 1. Clean, oil, season, no foil
-2. Two zone, lump, intake half open, exhaust about half, looking for 350
+2. Two zone, lump, intake half open, exhaust about half, looking for 350°F
 3. Indirect 30min, flip & rotate, 20-30min
 4. Pull at about 200
 
