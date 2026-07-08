@@ -59,6 +59,26 @@ Recommended smoke: Apple, Cherry
 
 ---
 
+## Potatoes
+
+### Method 1
+1. Clean, oil, season, no foil
+2. Two zone, briquettes,  intake wide open, exhaust about half, looking for 400
+3. Indirect 30min, flip & rotate, 30-90min
+4. Pull at 190-205
+
+[Daddy DIY Grilling - YT](https://www.youtube.com/watch?v=sIJd60tnokY)
+
+### Method 2
+1. Clean, oil, season, no foil
+2. Two zone, lump, intake half open, exhaust about half, looking for 350
+3. Indirect 30min, flip & rotate, 20-30min
+4. Pull at about 200
+
+[Fishing & Cooking with Mike Chavez - YT](https://www.youtube.com/watch?v=QBqvWTVZjeA)
+
+---
+
 ## Grilled Pizza
 
 [Adam Witt - YT](https://www.youtube.com/watch?v=zRB_FqWi7Yk)
