@@ -135,6 +135,20 @@ Recommended smoke: Apple, Cherry
 
 ---
 
+## Sub-Primals
++ NY Strip - [Top Loin](https://www.youtube.com/watch?v=aztXedrY7U0)
++ Ribeye - [Whole Ribeye (sub-primal)](https://www.youtube.com/watch?v=tgbEqcV0oGk)
++ Filet - [Whole Tenderloin](https://www.youtube.com/watch?v=s667ZUOkptk)
++ Sirloin and Picanha - [Top Sirloin](https://www.youtube.com/watch?v=RJPGMRfze_o)
++ Prime Rib - [Rib Primal](https://www.youtube.com/watch?v=-wp1V-DSMsc)
++ Picanha only - [Top Sirloin](https://www.youtube.com/watch?v=9gBWR7v-c-s)
+
+Locations:
++ Costco / Sam's
++ Chef's Store
+
+---
+
 ## Woods for smoke
 + Hickory <most versitile, can be used on almost everything> (strong and pungent; kinda bacon-like flavor; too much makes bitterness)
 + Apple (mild, sweet & fruity flavor; strongest of all fruit woods)
