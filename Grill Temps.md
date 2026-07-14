@@ -23,7 +23,7 @@ Recommended smoke:
 ## Pork
 | |Slightly Pink (Juicy)|Medium|Well Done|
 |---|---|---|---|
-|Pull Temp|120 °F|145 °F|155 °F|
+|Pull Temp|140 °F|145 °F|155 °F|
 |Final Temp|145 °F|150 °F|160 °F|
 
 Recommended smoke: Hickory
