@@ -106,6 +106,28 @@ Recommended smoke: Apple, Cherry
 
 ---
 
+## Smoked garlic
++ 2 hours to overnight (Hot)
++ 5-6 hours (Cold)
+
+Recommended smoke: Hickory or fruit wood
+
+[FOGO Charcoal - YT](https://www.youtube.com/watch?v=9Lr1qxdw7gY&pp=ygURY29sZCBzbW9rZSBnYXJsaWPSBwkJUQsBhyohjO8%3D) (Hot)
+
+[The Barbecue Show - YT](https://www.youtube.com/watch?v=1WiMaBETvkU) (Cold)
+
+[DJ BBQ](https://www.youtube.com/watch?v=mDUNvmirVds) (Both)
+
+---
+
+## Smoked salt
++ 1.5 - 3 hours (Cold)
+
+[Whats 4 Chow - web](https://whats4chow.com/2015/09/29/how-to-smoke-salt-part-5-of-smoking-and-curing-foods-smoke-daddy-cold-smoke-generator/)
+
+
+---
+
 ## (Cold) Smoked Eggs
 + Soft/Medium/Hard boil, ice bath, peel
 + Rotate half-way through
