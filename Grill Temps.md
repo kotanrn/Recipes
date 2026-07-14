@@ -2,6 +2,8 @@ Temperatures: [Reluctant Gourmet](https://reluctantgourmet.com/meat-doneness-cha
 
 Smoke: [Tom's Kitchen - YT](https://www.youtube.com/watch?v=Ocw-AFRWnUA)
 
+Grill Temp Control: [Tom's Kitchen - YT](https://www.youtube.com/watch?v=7PGVvqYgwqQ)
+
 ---
 
 ## Beef
