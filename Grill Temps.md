@@ -160,7 +160,7 @@ Recommended smoke: Hickory or fruit wood
 ---
 
 ## Sub-Primals
-+ NY Strip - [Top Loin](https://www.youtube.com/watch?v=aztXedrY7U0)  [Another](https://www.youtube.com/watch?v=fPs18zsWG70)
++ NY Strip - [Top Loin](https://www.youtube.com/watch?v=aztXedrY7U0)  [Strip Loin](https://www.youtube.com/watch?v=fPs18zsWG70)
 + Ribeye - [Whole Ribeye (sub-primal)](https://www.youtube.com/watch?v=tgbEqcV0oGk)
 + Filet - [Whole Tenderloin](https://www.youtube.com/watch?v=s667ZUOkptk)
 + Sirloin and Picanha - [Top Sirloin](https://www.youtube.com/watch?v=RJPGMRfze_o)
